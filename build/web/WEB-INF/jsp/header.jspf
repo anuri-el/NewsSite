@@ -1,0 +1,14 @@
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ page pageEncoding="UTF-8" %>
+
+
+<header class="header">
+    <h1 ><a href="." ><span id="news-title">NewsWebSite</span></a></h1>
+    
+    <form class="search" action="search">
+        <input class="search" type="text" name="text" value="${text}"/>
+        <input class="btn-search" type="submit" value="Search"/>
+    </form>
+    
+   
+</header>

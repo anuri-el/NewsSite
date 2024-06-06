@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8" %>
+<footer class="footer-news">
+    
+    &COPY; Copyright 2024
+</footer>
